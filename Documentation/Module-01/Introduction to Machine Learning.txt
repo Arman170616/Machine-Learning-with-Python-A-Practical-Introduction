@@ -1,0 +1,22 @@
+Module 1 - Introduction to Machine Learning 
+
+Machine Learning: Field of Study that gives Computer the ability to learn without being explicitly Programmed.
+by Arthur Samuel(1959)
+Python Libraries for Machine Learning like Numpy, Scipy, Matplotlib, Pandas, Scikit Learn 
+ 
+
+Most of the tasks that need to be done in a Machine Learning Pipeline are -
+
+Data Preprocessing(Feature Selection, Extraction)  
+↓
+Train/Test Split 
+↓
+Algorithm Setup(Defining the Algorithm)
+↓
+Model Fitting 
+↓
+Prediction 
+↓
+Evaluation
+↓
+Model Export
